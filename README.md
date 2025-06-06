@@ -1,6 +1,15 @@
 # tbp-skin-detect
 Skin Cancer Detection from 3D Total Body Photos
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Evaluator - Partial area under the ROC curve](https://img.shields.io/badge/Optimized--for-pAUC%20Score-yellowgreen?style=for-the-badge)
+![Metric Score](https://img.shields.io/badge/Best%20Score-0.16930-2ECC71?style=for-the-badge)
+![Rank](https://img.shields.io/badge/Rank-184%20of%202739-brightgreen?style=for-the-badge)
+![Solo](https://img.shields.io/badge/Submission-Solo-orange?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-Tuning-blueviolet?style=for-the-badge)
+
 ### **Project Duration**: Aug 15, 2024 - Sep 7, 2024
 
 ---
